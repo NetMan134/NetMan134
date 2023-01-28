@@ -14,6 +14,6 @@ My most notable project by far is probably odrabiamy-telegram, above lemonpopup.
   * Void Linux (w/KDE Plasma)
 
 ### Contact
-If you want to contact me, reach out to my inbox: contact(at)netman.gq
+If you'd like to contact me, reach out to my inbox: kontakt(at)netman.gq
 
 Have an amazing day!
