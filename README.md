@@ -16,4 +16,6 @@ My most notable project by far is probably odrabiamy-telegram, above lemonpopup.
 ### Contact
 If you'd like to contact me, reach out to my inbox: kontakt(at)netman.gq
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NetMan134&count_private=true&show_icons=true&theme=radical)
+
 Have an amazing day!
