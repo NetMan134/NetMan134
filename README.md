@@ -1,21 +1,21 @@
 ## Welcome to my profile!
-I'm a tech enthusiast from Poland interested in linux, python, web design, thinkpads, programming (duh), tinkering and other stuff as I discover along the way. Enjoys listenting to house, trance, electronic music in general.
-My most notable project by far is probably odrabiamy-telegram but I have some notable experience with front-end web design.
+I'm a tech enthusiast from Poland interested in linux, python, web design, thinkpads, and other stuff as I discover along the way.
+I like cycling, oldskool house, trance, electronic music, traveling, tinkering
+My most notable project by far is probably odrabiamy-telegram but I have experience with front-end web design + I tinker around with python.
 
 ### My workstations
-1. Desktop PC
+1. Custom PC
   * Ryzen 5600G
   * 32GB RAM
-  * Arch Linux (w/KDE Plasma)
-2. ThinkPad T540p
-  * i7-4710MQ
-  * 16GB RAM
-  * GT 730M
-  * Arch Linux (w/KDE Plasma)
+  * Fedora Gnome Wayland
+2. ThinkPad T480
+  * i5-8350U
+  * 8GB RAM (will upgrade!)
+  * Fedora Plasma x.org
 
 ### Contact
-If you'd like to contact me, reach out to my inbox: kontakt(at)netman.gq
+My inbox: contact @ netman.ovh
 
 ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=NetMan134&count_private=true&show_icons=true&theme=radical)
 
-Thanks for stopping by and have a lovely day!
+Thanks for stopping by!
