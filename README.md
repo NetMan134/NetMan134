@@ -1,4 +1,4 @@
-## Hi! I'm Oskar
+# Hi! I'm Oskar
 I'm a tech enthusiast from Poland  in web dev, JS, python, tinkering and all sorts of computer related shenanigans.
 My hobbies include cycling, tinkering,  Linux and hoarding :)
 My most notable projects by far are:
@@ -22,9 +22,11 @@ Also take a peek at my [gitea](https://git.638626.xyz/)! Most notably on the "to
 
 ### Contact
 My inbox: contact(at)netman.ovh
+
 Discord: NetMan#0459 (still have the discriminator)
+
 Twitter/X: @NetMan_PL
 
 ![NetMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=netman134&show_icons=true&theme=transparent)
 
-Thanks for stopping by!
+### Thanks for stopping by!
