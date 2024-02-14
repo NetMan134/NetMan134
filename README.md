@@ -8,7 +8,7 @@ My most notable projects by far are:
 I have experience with front-end web design (not yet with frameworks), want to develop skills in front-end frameworks the back-end as well!
 Python is also a nice language for me, as it's easy to write almost like pseudocode!
 
-Also take a peek at my [gitea](https://git.638626.xyz/)! Most notably on the "tod' account, which I use for The Odin Project related stuff
+Also take a peek at my [gitea](https://git.638626.xyz/explore)! Most notably on the "tod' account, which I use for The Odin Project related stuff
 
 ### My workstations
 1. Custom PC
