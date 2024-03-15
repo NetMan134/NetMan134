@@ -18,12 +18,12 @@ Also take a peek at my [gitea](https://git.638626.xyz/explore)! Most notably on 
 2. ThinkPad T480
   * i5-8350U
   * 8GB RAM (will upgrade!)
-  * Fedora Plasma
+  * Fedora Gnome
 
 ### Contact
-My inbox: contact(at)netman.ovh
+My inbox: me(at)netman.ovh
 
-Discord: NetMan#0459 (still have the discriminator)
+Discord: @netmanpl
 
 Twitter/X: @NetMan_PL
 
