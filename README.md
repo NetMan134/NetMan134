@@ -16,20 +16,12 @@ Python is also a nice language for me, as it's easy to write almost like pseudoc
 Also take a peek at my [gitea](https://git.638626.xyz/explore)! Most notably on the "tod' account, which I use for The Odin Project related stuff
 
 ### My workstations
-1. Custom PC
-  * Ryzen 5600G
-  * 32GB RAM
-  * Fedora Gnome
-2. ThinkPad T480
-  * i5-8350U
-  * 8GB RAM (will upgrade!)
-  * Fedora Gnome
+1. Custom PC: `Ryzen 5600G`, `32GB RAM`, `Fedora Gnome`
+2. ThinkPad T480: `i5-8350U`, `8GB RAM`, `Fedora Gnome`
 
 ### Contact
-My inbox: me(at)netman.ovh
-
-Discord: @netmanpl
-
+My inbox: me(at)netman.ovh<br>
+Discord: @netmanpl<br>
 Twitter/X: [@NetMan_PL](https://x.com/netman_pl)
 
 ![NetMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=netman134&show_icons=true&theme=transparent)
