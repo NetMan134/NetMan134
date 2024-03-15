@@ -1,6 +1,7 @@
 # Hi! I'm Oskar
 I'm a tech enthusiast from Poland interested in web dev, JS/TS, python and all sorts of computer (mostly software, but hardware is also neat) related shenanigans.
-![Skill icons](https://skillicons.dev/icons?i=js,ts,html,tailwind,vue,npm,python,vscode,docker,linux,git,cloudflare)()
+
+[![Skill icons](https://skillicons.dev/icons?i=js,ts,html,tailwind,vue,npm,python,vscode,docker,linux,git,cloudflare)](https://skillicons.dev)
 
 My hobbies include cycling, tinkering, travelling, and hoarding :)
 
