@@ -1,29 +1,17 @@
-# Hi! I'm Oskar
-I'm a tech enthusiast from Poland interested in web dev, JS/TS, python and all sorts of computer (mostly software, but hardware is also neat) related shenanigans.
+# Hej, i'm Oskar
+I'm a 🇵🇱 tech enthusiast interested in webdev, python, linux, selfhosting and sorts of electronics related shenanigans
 
-[![Skill icons](https://skillicons.dev/icons?i=js,ts,html,tailwind,vue,npm,python,vscode,docker,linux,git,cloudflare)](https://skillicons.dev)
+[![Skill icons](https://skillicons.dev/icons?i=js,ts,html,tailwind,vue,npm)](https://skillicons.dev)<br>
+[![Skill icons](https://skillicons.dev/icons?i=python,vscode,docker,linux,git,cloudflare)](https://skillicons.dev)
 
-My hobbies include cycling, tinkering, travelling, and hoarding :)
+I like cycling, tinkering, trains & public transit, hoarding - essentially interested in a little bit of everything and in nothing properly
 
-My most notable projects for now are :
-* [school tv info](https://tv-showcase.638626.xyz/) (haven't released it on git..., but [here's a pic](https://netman.ovh/tvshowcase.jpg) of it running live in my school :D, will release it eventually)
-* [odrabiamy-telegram](https://github.com/netman134/odrabiamy-telegram/) (ON HOLD...)
+I've got some personal experience with front-end web design<br>
+I want to develop skills in front-end frameworks and the back-end as well
 
-I have some personal experience with front-end web design, and now dipped into [Vue.js](https://vuejs.org)<br>
-I want to develop skills in front-end frameworks and the back-end as well<br>
-Python is also a nice language for me, as it's easy to write almost like pseudocode!
-
-Also take a peek at my [gitea](https://git.638626.xyz/explore)! Most notably on the "tod' account, which I use for The Odin Project related stuff
-
-### My workstations
-1. Custom PC: `Ryzen 5600G`, `32GB RAM`, `Fedora Gnome`
-2. ThinkPad T480: `i5-8350U`, `8GB RAM`, `Fedora Gnome`
+Also, python is awesome (not ideal, but still), don't let anyone tell you otherwise, easy to get going and easy to write and understand like pseudocode :>
 
 ### Contact
-My inbox: me(at)netman.ovh<br>
-Discord: @netmanpl<br>
-Twitter/X: [@NetMan_PL](https://x.com/netman_pl)
-
-![NetMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=netman134&show_icons=true&theme=transparent)
-
-### Thanks for stopping by!
+Email: github(at)netman.ovh<br>
+Fedi (Sharkey): [@netman@fedi.mandarynki.eu](https://fedi.mandarynki.eu/@netman)<br>
+Signal: @onn_net.03
