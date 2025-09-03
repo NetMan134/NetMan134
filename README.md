@@ -1,17 +1,15 @@
-# Hej, i'm Oskar
-I'm a 🇵🇱 tech enthusiast interested in webdev, python, linux, selfhosting and sorts of electronics related shenanigans
+# 👋 Hej, i'm Oskar
+I'm a 🇵🇱 tech enthusiast interested in webdev, python, linux, selfhosting and related shenanigans 😅
 
-[![Skill icons](https://skillicons.dev/icons?i=js,ts,html,tailwind,vue,npm)](https://skillicons.dev)<br>
-[![Skill icons](https://skillicons.dev/icons?i=python,vscode,docker,linux,git,cloudflare)](https://skillicons.dev)
+[![skillicons](https://skillicons.dev/icons?i=js,tailwind,nuxt,vue,python,docker,linux,git)](https://skillicons.dev)
 
-I like cycling, tinkering, trains & public transit, hoarding - essentially interested in a little bit of everything and in nothing properly
+Other interests include cycling and public transit :>
 
-I've got some personal experience with front-end web design<br>
-I want to develop skills in front-end frameworks and the back-end as well
+Did I mention that I'm essentially interested in a little bit of everything and in nothing properly? :3
 
-Also, python is awesome (not ideal, but still), don't let anyone tell you otherwise, easy to get going and easy to write and understand like pseudocode :>
+### 🍊 I also co-run [mandarynki.eu](https://mandarynki.eu), check it out :D
 
-### Contact
-Email: github(at)netman.ovh<br>
-Fedi (Sharkey): [@netman@fedi.mandarynki.eu](https://fedi.mandarynki.eu/@netman)<br>
-Signal: @onn_net.03
+#### Contact
+email: [gh-inquiry(at)netman.ovh](mailto:gh-inquiry@netman.ovh)<br>
+fediverse: [@netman@fedi.mandarynki.eu](https://fedi.mandarynki.eu/@netman)<br>
+signal: [@onn_net.03](https://signal.me/#eu/F5F3bJi6d_QJHVX2Fuu0IwYFXAZkLAQ3ay80FTD_4VbH8lHVTRdNAZjOtwX-M0-u)
