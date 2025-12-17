@@ -4,7 +4,7 @@
 
 # More active on [git.mandarynki.eu](https://git.mandarynki.eu/netman)
 
-<img class="h-12" alt="skillicons" src="https://skillicons.dev/icons?i=js,python,nuxt,tailwind,docker,linux,git,sqlite,ts" />
+<img class="h-12" alt="skillicons" src="https://skillicons.dev/icons?i=js,nuxt,linux,git,docker,tailwind,python,sqlite,ts" />
 
 ### 🍊 [mandarynki.eu](https://mandarynki.eu) co-admin
 
